@@ -7,5 +7,5 @@ if bit == '64bit':
     from EXTRACTOR import menu
     menu()
 elif bit == '32bit':
-    from EXTRACTOR32 import menu
+    from EXTRACTOR import menu
     menu()
